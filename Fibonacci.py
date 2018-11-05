@@ -27,7 +27,7 @@ def main():
     # Enter y = yes or n = no
     answer = "y"
     while answer == "y":
-        num = input("Enter your number friend ")
+        num = input("Enter your number friend3 ")
         feb(num)
         print "\n"
         answer = raw_input("would you like to try again? ")
