@@ -1,4 +1,4 @@
 text = "helo world how are you"
 list = text.split()
-print "dewk"
+print "dewk2"
 print list[1]
